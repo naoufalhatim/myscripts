@@ -231,7 +231,7 @@
       <name>VilleMTP_MTP_SousQuartiers</name>
       <Placemark>
         <name/>
-        <description><![CDATA[description: <br>OBJECTID: 1<br>AREA: 2301380.00000000000<br>PERIMETER: 7061.21000000000<br>SQUARTIER_: 7<br>QUARTIER: 1<br>SQUARTMNO: HOS<br>LIBSQUART: Plan des 4 Seigneurs<br>Shape_Leng: 7063.80336949000<br>Shape_Area: 2303072.59613000000]]></description>
+        <description><![CDATA[id=8&nom_quartier=Plan des 4 Seigneurs&type_quartier=2]]></description>
         <styleUrl>#poly-0F9D58-1200-76</styleUrl>
         <ExtendedData>
           <Data name="description">
